@@ -36,11 +36,24 @@
     },
     {
       "id": "Maps",
-      "title": "Post s2"
-    },
-    {
-      "id": 3,
-      "title": "Post s3"
+      "region": {
+        "EU": "Europe",
+        "AM": "America"
+      },
+      "locale": {
+        "EU": {
+          "en_EM": "EMEA(English)",
+          "no_NO": "Norway(Norwegian)",
+          "pt_PT": "Portugal(Portugal Portuguese)",
+          "nl_NL": "Netherlands(Dutch)"
+        },
+        "AM": {
+          "es_LA": "Latin America (LA-Spanish)",
+          "fr_CA": "Canada(French)",
+          "en_CA": "Canada(English)",
+          "en_US": "United States(English)"
+        }
+      }
     }
   ],
   "comments": [
