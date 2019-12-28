@@ -1,4 +1,11 @@
 {
+  "faimly":  [
+      "myFamily",
+      "parents",
+      "in_laws",
+      "sister",
+      "friends"
+    ],
   "posts": [
     {
       "id": "I-store",
