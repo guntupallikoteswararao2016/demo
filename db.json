@@ -5,30 +5,6 @@
     { "id": 3, "title": "j2son-server", "author": "3typicode" }
   ],
   "family": ["myFamily", "parents", "in_laws", "sister", "friends"],
-  "myFamily": [
-        { "name": "siva", "age": 36},
-        { "name": "manasa", "age": 27},
-        { "name": "Rohith", "age": 2},
-        { "name": "pranavi", "age": 6},
-    ],
-    "parents": [
-        { "name": "kumari", "age": 50},
-        { "name": "srinu", "age": 57},
-    ],
-    "in_laws": [
-        { "name": "koteswarao", "age": 67},
-        { "name": "kalyani", "age": 57},
-    ],
-    "sister": [
-        { "name": "sankar", "age": 45},
-        { "name": "madhuri", "age": 30},
-        { "name": "revathi", "age": 11},
-        { "name": "karthik", "age": 5},
-    ],
-    "friends": [
-        { "name": "durga", "age": 45 }
-
-    ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
