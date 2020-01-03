@@ -6,7 +6,8 @@
     { "id": 3, "title": "j2son-server", "author": "3typicode" }
   ],
   "family": ["myFamily", "parents", "in_laws", "sister", "friends"],
-  "animalList": ["All", "wild", "pet", "water"],
+  "animalList": ["All", "wild", "pet"],
+  "animals": [{"name":"tiger","category":"wild" },{"name": "lion","category": "wild"},{"name": "dog","category": "pet"}],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
