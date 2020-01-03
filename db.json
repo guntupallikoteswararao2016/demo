@@ -49,10 +49,6 @@
     {
       "name": "fish",
       "category": "water"
-    },
-    {
-      "name": "snake",
-      "category": "water"
     }
   ],
   "comments": [
