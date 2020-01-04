@@ -1,11 +1,1 @@
-
-{
-  "family": ["myFamily", "parents", "in_laws", "sister", "friends"],
-  "animalList": ["All", "wild", "pet"],
-  "animals": [{"name":"tiger","category":"wild" },{"name": "lion","category": "wild"},{"name": "dog","category": "pet"}],
-  "familyData" : {"myFamily": [{ "name": "siva", "age": 36},{ "name": "manasa", "age": 27},{ "name": "Rohith", "age": 2},{ "name": "pranavi", "age": 6},],"parents": [
-  {"name": "kumari", "age": 50},{ "name": "srinu", "age": 57},],"in_laws": [{ "name": "koteswarao", "age": 67},{ "name": "kalyani", "age": 57},
- ],"sister":[ { "name": "sankar", "age": 45},{ "name": "madhuri", "age": 30}],"friends": [{ "name": "durga", "age": 45 }]
-},
-  "profile": { "name": "typicode" }
-}
+{"family":["myFamily","parents","in_laws","sister","friends"],"animalList":["All","wild","pet"],"animals":[{"name":"tiger","category":"wild"},{"name":"lion","category":"wild"},{"name":"dog","category":"pet"}],"familyData":{"myFamily":[{"name":"siva","age":36},{"name":"manasa","age":27},{"name":"Rohith","age":2},{"name":"pranavi","age":6}],"parents":[{"name":"kumari","age":50},{"name":"srinu","age":57}],"in_laws":[{"name":"koteswarao","age":67},{"name":"kalyani","age":57}],"sister":[{"name":"sankar","age":45},{"name":"madhuri","age":30},{"name":"revathi","age":11},{"name":"karthik","age":5}],"friends":[{"name":"durga","age":45}]},"profile":{"name":"typicode"}}
