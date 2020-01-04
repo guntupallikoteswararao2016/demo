@@ -3,7 +3,7 @@
   "family": ["myFamily", "parents", "in_laws", "sister", "friends"],
   "animalList": ["All", "wild", "pet"],
   "animals": [{"name":"tiger","category":"wild" },{"name": "lion","category": "wild"},{"name": "dog","category": "pet"}],
-  "familyData" = {
+  "familyData" : {
     "myFamily": [
         { "name": "siva", "age": 36},
         { "name": "manasa", "age": 27},
